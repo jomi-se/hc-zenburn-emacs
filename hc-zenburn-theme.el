@@ -43,7 +43,7 @@
     ("hc-zenburn-bg-2"     . "#000000")
     ("hc-zenburn-bg-1"     . "#202020")
     ("hc-zenburn-bg-05"    . "#2D2D2D")
-    ("hc-zenburn-bg"       . "#313131")
+    ("hc-zenburn-bg"       . "#152539")
     ("hc-zenburn-bg+05"    . "#383838")
     ("hc-zenburn-bg+1"     . "#3E3E3E")
     ("hc-zenburn-bg+2"     . "#4E4E4E")
